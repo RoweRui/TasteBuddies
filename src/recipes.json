@@ -1,0 +1,661 @@
+[
+    {
+      "id": "613b8b1c28a914001b7d28a1",
+      "title": "Coffee",
+      "steps": [
+        "Boil 1 cup of water in a kettle.",
+        "Add 1-2 teaspoons of coffee powder to a cup.",
+        "Pour hot water into the cup over the coffee powder.",
+        "Stir well until the coffee powder dissolves.",
+        "Add sugar and milk to taste, stir again."
+      ],
+      "image": "/coffee.jpg",
+      "description": "A simple yet refreshing cup of coffee to kickstart your day.",
+      "ingredients": [
+        "1 cup water",
+        "1-2 teaspoons coffee powder",
+        "Sugar",
+        "Milk"
+      ],
+      "cookingTime": "5 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a2",
+      "title": "Sandwich",
+      "steps": [
+        "Take 2 slices of bread and spread butter on one side of each slice.",
+        "Layer lettuce leaves, sliced tomatoes, cucumber, and cheese on one slice.",
+        "Place the other slice of bread on top, butter side down.",
+        "Press gently and cut the sandwich diagonally."
+      ],
+      "image": "/sandwich.jpg",
+      "description": "A quick and easy vegetable sandwich for a light meal.",
+      "ingredients": [
+        "2 slices of bread",
+        "Butter",
+        "Lettuce",
+        "Tomato",
+        "Cucumber",
+        "Cheese"
+      ],
+      "cookingTime": "10 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a3",
+      "title": "Pan Cake",
+      "steps": [
+        "In a mixing bowl, combine 1 cup of flour, 2 tablespoons of sugar, and 1 teaspoon of baking powder.",
+        "Gradually add 1 cup of milk while whisking to form a smooth batter.",
+        "Heat a non-stick pan over medium heat and grease lightly with butter.",
+        "Pour a ladleful of batter onto the pan and spread it in a circular motion.",
+        "Cook until bubbles form on the surface, then flip and cook the other side until golden brown."
+      ],
+      "image": "/pancake.jpg",
+      "description": "Fluffy pancakes perfect for a hearty breakfast.",
+      "ingredients": [
+        "1 cup flour",
+        "2 tbsp sugar",
+        "1 tsp baking powder",
+        "1 cup milk",
+        "Butter"
+      ],
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a4",
+      "title": "Chicken Adobo",
+      "steps": [
+        "Combine chicken, soy sauce, and 1 cup lemon lime soda. Mix. Marinate for at least 30 minutes.",
+        "Heat oil in a pan. Pan-fry marinated chicken for 1 minute per side. Remove from the pan. Set aside.",
+        "Using the remaining oil, sauté garlic until it browns. Put the pan-fried chicken back into the pan.",
+        "Add remaining marinade, lemon lime soda, whole peppercorn, and dried bay leaves. Let boil.",
+        "Pour-in vinegar. Let the mixture boil. Stir.",
+        "Add Knorr Chicken Cube. Cover and reduce heat between low to medium. Cook for 20 minutes.",
+        "Remove the cover of the pan. Adjust heat to medium. Continue cooking while stirring every few minutes until the sauce evaporates."
+      ],
+      "image": "/adobo.png",
+      "description": "A flavorful and aromatic rice dish with spiced chicken.",
+      "ingredients": [
+        "1/2 lbs. chicken cut into serving pieces",
+        "1 piece Knorr Chicken cube",
+        "2 cups lemon lime soda",
+        "1/4 cup soy sauce",
+        "▢1/2 cup white vinegar",
+        "5 pieces dried bay leaves",
+        "1 head garlic",
+        "2 teaspoons whole peppercorn",
+        "3 tablespoons cooking oil"
+      ],
+      "cookingTime": "1 hour 30 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a5",
+      "title": "Chicken Kebabs",
+      "steps": [
+        "Cut 500g of boneless chicken into cubes.",
+        "In a bowl, mix 2 tablespoons of yogurt, 1 tablespoon of ginger-garlic paste, 1 teaspoon of red chili powder, 1/2 teaspoon of turmeric powder, 1 teaspoon of garam masala, and salt to taste.",
+        "Marinate the chicken cubes in the mixture for at least 2 hours in the refrigerator.",
+        "Thread the marinated chicken cubes onto skewers.",
+        "Grill the kebabs on medium heat for 10-12 minutes, turning occasionally until cooked through and lightly charred."
+      ],
+      "image": "/chicken_kebab.jpeg",
+      "description": "Spicy and succulent kebabs made from marinated chicken.",
+      "ingredients": [
+        "500g boneless chicken",
+        "Yogurt",
+        "Ginger-garlic paste",
+        "Spices",
+        "Salt"
+      ],
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a6",
+      "title": "Zinger Burger",
+      "steps": [
+        "Marinate 2 chicken fillets in 2 tablespoons of yogurt, 1 teaspoon of mustard paste, 1/2 teaspoon of black pepper powder, and salt for 1 hour.",
+        "Coat the marinated chicken fillets with a mixture of 1 cup of all-purpose flour, 1 teaspoon of paprika powder, 1/2 teaspoon of garlic powder, and salt to taste.",
+        "Deep fry the coated chicken fillets in hot oil until golden brown and crispy.",
+        "Slice burger buns in half and toast lightly.",
+        "Spread mayonnaise, ketchup, and mustard sauce on the toasted buns.",
+        "Layer with lettuce leaves, tomato slices, and the fried chicken fillets.",
+        "Cover with the top half of the bun and serve hot with fries."
+      ],
+      "image": "/zinger.jpg",
+      "description": "A crispy and juicy chicken burger with a zesty twist.",
+      "ingredients": [
+        "2 chicken fillets",
+        "Yogurt",
+        "Mustard paste",
+        "Black pepper",
+        "Flour",
+        "Paprika powder",
+        "Garlic powder",
+        "Burger buns",
+        "Mayonnaise",
+        "Ketchup"
+      ],
+      "cookingTime": "40 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a7",
+      "title": "Special Chicken Afritada",
+      "steps": [
+        "Heat the cooking oil in a wok. Pan-fry the potatoes and carrots until they brown a bit (about 3 to 4 minutes). Set aside.",
+        "Reduce the oil to 3 tablespoons. Pan-fry the chicken livers for 30 seconds on each side. Remove the liver and set aside.",
+        "Sauté the onion and garlic until the onion softens. Add the chicken pieces and continue sautéing until the outer part turns light brown.",
+        "Pour the soy sauce into the wok and cook for 30 seconds. Add the hotdogs and cook for 1 minute.",
+        "Pour the tomato sauce into the wok, add 1 cup of water, stir, and bring it to a boil.",
+        "Add the chicken liver and dried bay leaves. Simmer for 30 minutes.",
+        "Add the green peas and bell peppers, and cook for 2 minutes. Then, add the fried potatoes and carrots and stir.",
+        "Season with the Maggi Magic Chicken Cube, stirring and cooking for 1 minute. Adjust seasoning with fish sauce and ground black pepper to taste. Top with grated cheese."
+      ],
+      "image": "/chickenafritada.png",
+      "description": "Tender chicken simmered in savory tomato sauce, loaded with colorful vegetables!",
+      "ingredients": [
+        "1 whole chicken cut into serving pieces",
+        "4 ounces chicken liver",
+        "3 hotdogs sliced diagonally",
+        "2 potatoes quartered",
+        "2 carrots diced",
+        "2 bell peppers sliced",
+        "1 yellow onion chopped",
+        "5 dried bay leaves",
+        "¾ cups green peas",
+        "5 cloves garlic chopped",
+        "3 tablespoons soy sauce",
+        "8 ounces tomato sauce",
+        "1 piece Maggi Magic Chicken Cube",
+        "½ cup cheddar cheese grated",
+        "Fish sauce and ground black pepper to taste.",
+        "½ cup cooking oil"
+      ],
+      "cookingTime": "1 hour 10 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28a8",
+      "title": "Batchoy",
+      "steps": [
+        "Heat 3 tablespoons cooking oil in a cooking pot. Add 5 cloves garlic and sauté until it starts to brown. Next, add 1 onion (sliced) and 3 thumbs ginger (julienned), continuing to sauté until the onion softens.",
+        "Add 1 lb. pork loin, stirring until the outer part turns light brown, which should take around 2 minutes. Pour in 1 tablespoon of fish sauce and stir well.",
+        "Then, pour in 6 cups water and cover the pot. Allow it to boil, then adjust the heat to a simmer. Continue simmering for 30 minutes or until the pork tenderizes completely.",
+        "Next, adjust the heat setting to medium and add ½ lb. pork liver and ½ lb. pork spleen. Stir well, cover the pot, and boil for 5 minutes.",
+        "Reduce the heat to the lowest setting and gently add ½ lb. pork blood, stirring gently. Continue cooking for 10 minutes.",
+        "Now, add 2 ounces misua, stirring and cooking for 1 minute until they soften. Sprinkle in 4 grams Maggi Magic Sarap and season with fish sauce and ground black pepper to taste.",
+        "Finally, add 3 ounces hot pepper leaves. Cover the pot, then turn off the heat and let it rest for 2 minutes."
+      ],
+      "image": "/batchoy.png",
+      "description": "Flavorful noodle soup loaded with pork, shrimp, and aromatic herbs—comfort food!",
+      "ingredients": [
+        "1 lb. pork loin",
+        "½ lb. pork spleen pali ng baboy",
+        "½ lb. pork liver",
+        "½ lb. pork blood coagulated",
+        "2 ounces misua",
+        "3 ounces hot pepper leaves",
+        "1 onion sliced into thin pieces",
+        "5 cloves garlic crushed and peeled",
+        "3 thumbs ginger julienned",
+        "4 grams Maggi Magic Sarap",
+        "6 cups water",
+        "3 tablespoons cooking oil",
+        "Fish sauce and ground black pepper to taste"
+      ],
+      "cookingTime": "30 minutes"
+    },
+  
+
+    {
+      "id": "613b8b1c28a914001b7d28a9",
+      "title": "Beef Chop Suey",
+      "steps": [
+        "Combine the sliced beef and all the marinade ingredients in a bowl. After that, mix everything well. Set aside for 12 minutes.",
+        "Meanwhile, start to partially cook the vegetables. Heat 2 tablespoons of oil in a wide pan. Stir fry the cabbage, snap peas, carrot, and bell pepper for 1 minute.",
+        "Sprinkle some salt to flavor it and then pour ¼ cup of beef broth. Cover the pan and let the liquid boil.",
+        "Continue steaming for 1 minute. Then remove the cover of the pan. Let the remaining liquid evaporate. Set the vegetables aside.",     
+        "Heat the remaining oil on the same pan. Once the oil gets hot, stir-fry the marinated beef until the outside part turns light brown.",
+        "Add the minced garlic, white part of the green onion, and sliced onions. Continue to stir-fry until the onion softens.",
+        "Add the stir-fried vegetables. Then toss to distribute the ingredients evenly.",
+        "Season with Maggi Magic Sarap as needed."
+      ],
+      "image": "/chopsuey.png",
+      "description": "Savor tender beef, crisp veggies, and a savory sauce in harmony!",
+      "ingredients": [
+        "1 lb. beef top sirloin sliced into thin pieces",
+        "5 cloves garlic minced",
+        "1 yellow onion sliced thinly",
+        "3 stems green onion cut into 2-inch length",
+        "½ head cabbage sliced into serving pieces",
+        "2 carrots julienne",
+        "1 red bell pepper sliced into thick strips",
+        "2 cups snap peas",
+        "1 tablespoon soy sauce",
+        "3 tablespoons cooking oil",
+        "½ cup beef stock",
+        "8 grams Maggi Magic Sarap"
+      ],
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28aa",
+      "title": "Chicken Karahi",
+      "steps": [
+        "Heat 2 tablespoons of oil in a karahi (wok) and sauté 1 chopped onion until translucent.",
+        "Add 1 tablespoon of ginger-garlic paste and cook for a minute.",
+        "Add 500g of chicken pieces and cook until they turn white.",
+        "Add 2 chopped tomatoes, 1 teaspoon of red chili powder, 1 teaspoon of turmeric powder, 1 teaspoon of garam masala, and salt to taste.",
+        "Cook on high heat until the tomatoes are soft and the oil separates.",
+        "Garnish with chopped green chilies and coriander leaves before serving."
+      ],
+      "image": "/karahi.jpg",
+      "description": "A popular and flavorful Pakistani chicken dish cooked in a wok.",
+      "ingredients": [
+        "500g chicken",
+        "1 onion",
+        "2 tomatoes",
+        "Ginger-garlic paste",
+        "Red chili powder",
+        "Turmeric powder",
+        "Garam masala",
+        "Salt",
+        "Oil",
+        "Green chilies",
+        "Coriander leaves"
+      ],
+      "cookingTime": "40 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28b1",
+      "title": "French Fries",
+      "steps": [
+        "Peel and cut 3 large potatoes into thin strips.",
+        "Soak the potato strips in cold water for 30 minutes to remove excess starch.",
+        "Drain the potatoes and pat them dry with a kitchen towel.",
+        "Heat oil in a deep fryer or large pot to 350°F (175°C).",
+        "Fry the potatoes in batches for 4-5 minutes until they are soft but not browned. Remove and drain on paper towels.",
+        "Increase the oil temperature to 375°F (190°C).",
+        "Fry the potatoes again in batches for 2-3 minutes until they are golden brown and crispy.",
+        "Remove from oil, drain on paper towels, and immediately season with salt.",
+        "Serve hot with your favorite dipping sauce."
+      ],
+      "image": "/fries.jpg",
+      "description": "Crispy and golden French fries, perfect as a snack or side dish.",
+      "ingredients": ["3 large potatoes", "Oil for frying", "Salt"],
+      "cookingTime": "1 hour"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28ab",
+      "title": "Gulab Jamun",
+      "steps": [
+        "In a bowl, mix 1 cup of milk powder, 1/4 cup of all-purpose flour, 1/4 teaspoon of baking soda, and 2 tablespoons of ghee.",
+        "Add milk gradually to form a soft dough.",
+        "Make small balls from the dough and deep fry in hot oil until golden brown.",
+        "In another pot, heat 1 cup of sugar and 1 cup of water until the sugar dissolves and the syrup thickens slightly.",
+        "Soak the fried balls in the sugar syrup for at least 30 minutes before serving."
+      ],
+      "image": "/gulab_jamun.jpg",
+      "description": "A traditional Indian dessert made from deep-fried dough balls soaked in sweet syrup.",
+      "ingredients": [
+        "1 cup milk powder",
+        "1/4 cup all-purpose flour",
+        "1/4 tsp baking soda",
+        "2 tbsp ghee",
+        "Milk",
+        "Oil for frying",
+        "1 cup sugar",
+        "1 cup water"
+      ],
+      "cookingTime": "1 hour"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28ac",
+      "title": "Haleem",
+      "steps": [
+        "Soak 1 cup of wheat, 1/2 cup of split chana dal, 1/2 cup of split masoor dal, and 1/2 cup of split urad dal overnight.",
+        "In a large pot, cook 500g of beef or mutton with 1 chopped onion, 1 tablespoon of ginger-garlic paste, 1 teaspoon of turmeric powder, and salt to taste until tender.",
+        "Add the soaked grains and lentils to the meat along with 5 cups of water.",
+        "Cook on low heat for 4-5 hours, stirring occasionally, until the grains are completely soft and the mixture is thickened.",
+        "Blend the mixture to a smooth consistency using a hand blender.",
+        "Garnish with fried onions, green chilies, coriander leaves, and a squeeze of lemon juice before serving."
+      ],
+      "image": "/haleem.jpg",
+      "description": "A rich and hearty stew made with wheat, meat, and lentils, slow-cooked to perfection.",
+      "ingredients": [
+        "1 cup wheat",
+        "1/2 cup chana dal",
+        "1/2 cup masoor dal",
+        "1/2 cup urad dal",
+        "500g beef or mutton",
+        "1 onion",
+        "Ginger-garlic paste",
+        "Turmeric powder",
+        "Salt",
+        "Water",
+        "Fried onions",
+        "Green chilies",
+        "Coriander leaves",
+        "Lemon juice"
+      ],
+      "cookingTime": "5 hours"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28ad",
+      "title": "Aloo Paratha",
+      "steps": [
+        "Boil and mash 2 large potatoes.",
+        "Add 1 chopped onion, 1 chopped green chili, 1 teaspoon of cumin seeds, 1 teaspoon of garam masala, and salt to taste to the mashed potatoes. Mix well.",
+        "Divide the dough into small balls and roll each ball into a small circle.",
+        "Place a spoonful of the potato mixture in the center of the dough circle and fold the edges to seal.",
+        "Roll the filled dough ball into a larger circle, being careful not to let the filling spill out.",
+        "Heat a tawa or skillet over medium heat and cook the paratha on both sides until golden brown, applying ghee or oil as needed."
+      ],
+      "image": "/aloo_paratha.jpg",
+      "description": "A traditional Pakistani flatbread stuffed with a spiced potato filling.",
+      "ingredients": [
+        "2 potatoes",
+        "1 onion",
+        "1 green chili",
+        "Cumin seeds",
+        "Garam masala",
+        "Salt",
+        "Dough",
+        "Ghee or oil"
+      ],
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28ae",
+      "title": "Pork Menudo ",
+      "steps": [
+        "Heat oil in a pan. Once the oil gets hot, start to pan fry the potato and carrots. Continue until all sides turns light brown. Set aside.",
+        "Heat the remaining oil (add more if needed). Add the pork liver and then stir fry for 30 seconds. Add ground ginger. Continue to stir-fry for 2 minutes. Set aside.",
+        "Pour 3 tablespoons of cooking oil into a cooking pot. Once the oil turns hot, saute garlic and onion.",
+        "Once the onion becomes soft and translucent, add the pork. Saute until light brown.",
+        "Put the hotdogs into the pot. Cook for 1 minute.",
+        "Pour soy sauce, tomato sauce, and water into the pot.",
+        "Add Knorr Pork Cube. Stir.",
+        "Add raisins and dried bay leaves. Stir.Cover the pot and continue to boil between low to medium heat for 45 to 60 minutes, or until the pork is tender.",
+        "Add the pan fried potato and carrots, liver, along with salt and ground black pepper. Stir and cook for 3 minutes.",
+        "Transfer to a serving plate. Serve."
+      ],
+      "image": "/porkmenudo.png",
+      "description": "A slow-cooked beef stew with a rich and spicy gravy, typically served for breakfast.",
+      "ingredients": [
+        "2 lbs. pork shoulder sliced into small cubes",
+        "1 piece Knorr Pork Cube",
+        "4 ounces pork liver cubed",
+        "1 piece baking potato cubed",
+        "3 pieces hotdogs sliced crosswise into thin pieces",
+        "1 can tomato sauce 8 oz.",
+        "1 piece carrot cubed",
+        "1/2 cup raisins",
+        "2 pieces dried bay leaves",
+        "2 tablespoons soy sauce",
+        "1 teaspoon ground ginger",
+        "1 piece yellow onion chopped",
+        "4 cloves garlic crushed",
+        "3 tablespoons cooking oil",
+        "2 to 4 cups water",
+        "Salt and ground black pepper to taste"
+      ],
+      "cookingTime": "8 hours"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28af",
+      "title": "Lomi",
+      "steps": [
+        "Heat a cooking pot then pour-in cooking oil.",
+        "When the oil is hot enough, sauté the garlic and onions.",
+        "Put-in the sliced pork and cook until the color turns medium brown.",
+        "Add-in the ham and liver then cook for 2 minutes.",
+        "Add fish sauce and soy sauce then stir.",
+        "Pour-in the broth and let boil. Simmer until the pork strips are tender (about 20 to 30 minutes)",
+        "Put-in the cooked meatballs and kikiam then simmer for 3 minutes.",
+        "Add-in the ground black pepper and miki noodles then cook for 5 to 6 minutes.",
+        "Add the cassava flour diluted in water and stir well. Cook until the sauce thickens.",
+        "Turn-off the heat then pour-in the beaten egg. Stir constantly until the egg is well incorporated.",
+        "Transfer to a serving bowl and top with chicharon and sliced boiled egg. Garnish with onion leeks."
+      ],
+      "image": "/lomi.png",
+      "description": "A hearty noodle soup packed with tender meat and vibrant vegetable goodness.",
+      "ingredients": [
+        "1 lb miki noodles",
+        "3 cloves garlic crushed and minced",
+        "1 medium onion minced",
+        "1/4 lb cooked Kikiam quekiam, sliced",
+        "1/4 lb pork sliced into thin strips",
+        "6 to 8 pieces cooked meatballs",
+        "3 tablespoons cassava flour diluted in 3 tablespoons water",
+        "1/4 lb ham chopped",
+        "1/4 lb pig’s liver sliced",
+        "1 1/2 tablespoons fish sauce",
+        "1 tablespoon soy sauce",
+        "1 teaspoon ground black pepper",
+        "6 cups pork or beef broth",
+        "1 cup chicharon pork cracklings or pork rinds, pounded",
+        "1 piece raw egg beaten",
+        "2 tablespoons onion leeks or scallions chopped (optional)",
+        "2 to 3 pieces hard boiled eggs optional",
+        "2 tablespoons cooking oil"
+      ],
+      "cookingTime": "30 minutes"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": "613b8b1c28a914001b7d28af",
+      "title": "Chicken Asado",
+      "steps": [
+        "Rub the chicken with salt and pepper and let stand for at least 30 minutes.",
+        "Heat a frying pan then pour-in the cooking oil and Pan Fry the chicken. Set aside.",
+        "Heat a cooking pot or wok then put-in the butter.",
+        "When the butter is hot enough, add the onions and sauté until the texture becomes soft.",
+        "Add-in the bay leaves and cook for a minute.",
+        "Pour-in the tomato sauce and bring to a boil.",
+        "Add the soy sauce and lemon juice then stir to ensure that the mixture is properly distributed and simmer for 5 to 7 minutes.",
+        "Add the pan-fried chicken and simmer for 10 minutes.",
+        "Place the potatoes in and continue to simmer for 7 to 12 minutes.",
+        "Turn off the heat then transfer to a serving plate and serve."
+      ],
+      "image": "/chickenasado.png",
+      "description": "Juicy chicken marinated in sweet-sour sauce, served with flavorful rice delight.",
+      "ingredients": [
+        "2 lbs chicken cut into serving pieces",
+        "1/4 cup lemon juice",
+        "2 tablespoons soy sauce",
+        "1/4 cup butter",
+        "1 1/2 cup of tomato sauce",
+        "1 large onion diced",
+        "2 pieces dried bay leaves",
+        "2 large potatoes quartered",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon ground black pepper",
+        "3/4 cup cooking oil"
+      ],
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28af",
+      "title": "Onion Rings",
+      "steps": [
+        "Break up the onion slices into rings. Set aside.",
+        "Combine flour, baking powder, and salt, in a small bowl and mix well.",
+        "Dredge the onions on the flour mixture and set aside.",
+        "Meanwhile, make the batter by adding the egg and milk on the flour mixture and whisk.",
+        "Dip the onions on the batter and allow the extra batter to drip.",
+        "Place the breadcrumbs in a plastic bag or container and put-in the onions rings.",
+        "Heat a cooking pot and pour-in cooking oil.",
+        "When the oil is hot, deep-fry the onion until the color turns golden brown (usually 2 minutes or so).",
+        "Remove the onion rings from the cooking pot and place in a plate lined with paper towels, to absorb the excess oil.",
+        "Transfer to a serving plate and serve."
+      ],
+      "image": "/onionrings.png",
+      "description": "Lightly seasoned and fried to perfection, these savory delights are the ultimate sidekick to any meal or a tasty snack on their own.",
+      "ingredients": [
+        "1 large yellow onion sliced",
+        "1  1/4 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1 teaspoon salt",
+        "1 piece egg beaten",
+        "1 cup milk",
+        "1 cup Panko bread crumbs",
+        "1 teaspoon salt",
+        "1/4 teaspoon ground black pepper",
+        "3 cups cooking oil"
+      ],
+      "cookingTime": "20 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28af",
+      "title": "Champorado",
+      "steps": [
+        "Pour 2 1/2 cups of water in a pot and bring to a boil",
+        "Put-in the glutinous rice and allow water to re-boil for a few minutes",
+        "Dilute the cocoa powder in 1 cup warm water then pour-in the pot. Stir continuously",
+        "Once the glutinous rice is cooked (about 12 to 18 minutes of cooking with constant stirring), add the sugar and cook for another 5 minutes or until the texture becomes thick.",
+        "Remove from the pot and place in a serving bowl.",
+        "Serve hot with a swirl of condensed milk on top."
+      ],
+      "image": "/champorado.png",
+      "description": "Dive into the rich, chocolatey bliss of this traditional Filipino rice porridge.",
+      "ingredients": [
+        "8 tbsp cocoa powder or about 4 pieces tableya",
+        "1 cup glutinous rice malagkit",
+        "1/2 cup sugar",
+        "3 1/2 cups water",
+        "condensed milk optional"
+      ],
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28af",
+      "title": "Sushi Bake",
+      "steps": [
+        "Preheat the oven to 400F.",
+        "Combine rice vinegar, sugar, and salt in a bowl. Pop in the microwave for 15 seconds. Stir until the vinegar completely dilutes.",
+        "Put the cooked rice in a large bowl. Combine with the vinegar mixture. Gently toss until the rice gets coated completely.",
+        "Spread the rice mixture evenly in a baking dish. Lightly top with furikake. Set aside.",
+        "Make the creamy topping by combining all the cream topping ingredients in a bowl. Mix well. Spread over the rice.",
+        "Top with remaining furikake. Bake for 18 minutes.",
+        "Make the sriracha mayo topping by combining 5 Tablespoons of Lady’s Choice Mayonnaise with 1 Tablespoon sriracha sauce. Mix well and then transfer into a condiment squeeze bottle. Set aside.",
+        "Remove the sushi bake from the oven. Top it with masago and avocado slices. Drizzle sriracha mayonnaise on top.",
+        "Slice a portion of the sushi bake and place over a small piece of Nori sheet. Serve. Share and enjoy!"
+      ],
+      "image": "/sushibake.png",
+      "description": "Topped with crispy nori and drizzled with spicy sauce, it’s perfect for sharing at gatherings or enjoying as a hearty family meal.",
+      "ingredients": [
+        "Rice ingredients:",
+        "4 cups cooked white rice",
+        "3 tablespoons rice vinegar",
+        "2 teaspoons granulated sugar",
+        "1 teaspoon salt",
+        "Cream topping:",
+        "1/2 cup cream cheese softened",
+        "2 tablespoons sour cream. optional",
+        "1/2 cup Lady’s Choice Mayonnaise",
+        "6 ounces Kani (imitation crab meat) chopped",
+        "1/4 cup cucumber diced into small pieces",
+        "Topping:",
+        "5 Tablespoons Furikake",
+        "3 tablespoons masago fish roe, optional",
+        "5 Tablespoons Lady’s Choice Mayonnaise",
+        "1 Tablespoons Sriracha sauce",
+        "1 Avocado sliced"
+      ],
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28af",
+      "title": "Lumpiang Shanghai",
+      "steps": [
+        "Combine all filling ingredients in a bowl. Mix well.",
+        "Scoop around 1 to 1 1/2 tablespoons of filling and place over a piece of lumpia wrapper. Spread the filling and then fold both sides of the wrapper. Fold the bottom. Brush beaten egg mixture on the top end of the wrapper. Roll-up until completely wrapped. Perform the same step until all mixture are consumed.",
+        "Heat oil in a cooking pot. Deep fry lumpia in medium heat until it floats.",
+        "Remove from the pot. Let excess oil drip. Serve. Share and enjoy"
+      ],
+      "image": "/lumpia.png",
+      "description": "Crowd-pleaser that brings a burst of flavor and joy to every gathering!",
+      "ingredients": [
+        "50 pieces lumpia wrapper",
+        "3 cups cooking oil",
+        "Filling ingredient",
+        "1 1/2 lbs ground pork",
+        "2 pieces onion minced",
+        "2 pieces carrots minced",
+        "1 1/2 teaspoons garlic powder",
+        "1/2 teaspoon ground black pepper",
+        "1/2 cup parsley chopped",
+        "1 1/2 teaspoons salt",
+        "1 tablespoon sesame oil",
+        "2 eggs"
+      ],
+      "cookingTime": "1 hour"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28af",
+      "title": "Sinangag",
+      "steps": [
+        "Prepare the Rice: If using freshly cooked rice, spread it out on a plate to cool and dry slightly. Day-old rice is ideal as it’s firmer and prevents clumping.",
+        "Heat the Oil: In a large skillet or wok, heat the vegetable oil over medium heat.",
+        "Sauté the Garlic: Add the minced garlic to the hot oil and sauté until it becomes fragrant and golden brown. Be careful not to burn the garlic, as it can become bitter.",
+        "Add the Rice: Increase the heat to medium-high, then add the cooked rice to the skillet. Use a spatula or wooden spoon to break up any clumps and mix it well with the garlic.",
+        "Season the Rice: Sprinkle salt over the rice to taste and continue stirring for about 5-7 minutes until the rice is heated through and slightly crispy.",
+        "Garnish and Serve: If desired, sprinkle chopped green onions on top for added flavor. Serve hot as a side dish or base for your favorite protein."
+      ],
+      "image": "/sinangag.png",
+      "description": "Sinangag, or garlic fried rice, is the ultimate Filipino breakfast side dish.",
+      "ingredients": [
+        "4 cups of cooked rice (preferably day-old)",
+        "4-6 cloves of garlic, minced",
+        "2-3 tablespoons of vegetable oil (or any cooking oil)",
+        "Salt, to taste",
+        "Optional: chopped green onions for garnish",
+        "Optional: fried eggs or any protein of your choice (like tocino or longganisa) for serving"
+      ],
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "613b8b1c28a914001b7d28af",
+      "title": "Kare-Kare",
+      "steps": [
+        "In a large pot, bring the water to a boil",
+        "Put in the oxtail followed by the onions and simmer for 2.5 to 3 hrs or until tender (35 minutes if using a pressure cooker)",
+        "Once the meat is tender, add the ground peanuts, peanut butter, and coloring (water from the annatto seed mixture) and simmer for 5 to 7 minutes",
+        "Add the toasted ground rice and simmer for 5 minutes",
+        "On a separate pan, saute the garlic then add the banana flower, eggplant, and string beans and cook for 5 minutes",
+        "Transfer the cooked vegetables to the large pot (where the rest of the ingredients are)",
+        "Add salt and pepper to taste",
+        "Serve hot with shrimp paste. Enjoy!"
+      ],
+      "image": "/karekare.png",
+      "description": "Paired with a sweet shrimp paste, kare-kare gives your taste buds an explosion of flavors.",
+      "ingredients": [
+        "3 lbs oxtail cut in 2 inch slices you an also use tripe or beef slices",
+        "1 piece small banana flower bud sliced",
+        "1 bundle pechay or bok choy",
+        "1 bundle string beans cut into 2 inch slices",
+        "4 pieces eggplants sliced",
+        "1 cup ground peanuts",
+        "1/2 cup peanut butter",
+        "1/2 cup shrimp paste",
+        "34 Ounces water about 1 Liter",
+        "1/2 cup annatto seeds soaked in a cup of water",
+        "1/2 cup toasted ground rice",
+        "1 tbsp garlic minced",
+        "1 piece onion chopped",
+        "salt and pepper"
+      ],
+      "cookingTime": "1 hour and 30 minutes"
+    }
+  ]
+  
